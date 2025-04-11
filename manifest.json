@@ -1,7 +1,7 @@
 [
   {
-    "guid": "07d86795-01f2-4d22-b174-cdc6056c3e7c",
-    "name": "Local Intros",
+    "guid": "fe0dd7b3-6d3a-404f-96ff-a00ecdd9979c",
+    "name": "Local Intros (fork)",
     "overview": "Display flashy intros before movies and other videos",
     "description": "Select a flashy video from the prerolls.video discord to run before any video content.",
     "owner": "BrianCArnold",
